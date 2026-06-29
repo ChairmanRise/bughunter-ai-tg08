@@ -1,4 +1,4 @@
-# 
+# Updated BugHunter installer. Download and install with docker-support and command-line-interface — fast, secure, and easy to use.
 
 
 
